@@ -61,6 +61,16 @@ Result Analysis & Visualization
 - Machine Learning using PySpark
 - Data Visualization
 
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/JaiSree24/Academic-Stress-Level-Calculation-Using-PySpark.git
+
+Install the required packages:
+
+pip install -r requirements.txt
+
 ## Future Improvements
 
 This project can be extended by adding:

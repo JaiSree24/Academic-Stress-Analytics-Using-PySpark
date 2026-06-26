@@ -79,7 +79,7 @@ Through this project, I gained practical experience in working with PySpark for 
 
 Academic-Stress-Level-Calculation-Using-PySpark
 │
-├── DataAlchemists.ipynb
+├── Academic_Stress_Analytics_PySpark.ipynb
 ├── README.md 
 └── requirements.txt
 
